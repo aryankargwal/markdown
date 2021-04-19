@@ -53,7 +53,7 @@ __This is a text__
 [link] : www.google.com
 ```
 [I’m a reference-style link][1]  
-[1]: www.google.com
+[1]: https://www.google.com/
 #### Reference-type Image
 ```
 ![alt text][link]
