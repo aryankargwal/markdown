@@ -53,14 +53,14 @@ __This is a text__
 [link] : www.google.com
 ```
 [I’m a reference-style link][1]  
-[1]: https://www.google.com/
+[1]:https://www.google.com/
 #### Reference-type Image
 ```
 ![alt text][link]
 [link] : https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 ```
 [alt text][1]  
-[1]: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+[1]:https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 ### Code Blocks
 #### Inline Code
 ```
