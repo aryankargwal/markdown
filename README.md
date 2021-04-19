@@ -3,6 +3,7 @@
 - [My PPT](https://docs.google.com/presentation/d/1q32Yx-5Cj9VvYkijfxUoY9xXQBQnSDTL1Ii-JbMOL9c/edit?usp=sharing)
 - [Markdown Practices](https://www.markdownguide.org/basic-syntax/)
 - [Documentation Badges](https://naereen.github.io/badges/)
+- [Sample Documentations](https://github.com/matiassingers/awesome-readme)
 ## Following is a list of handy markdown commands:
 ### Heading and Font Sizes:
 There are 6 pre-defined text sizes which are in form of "Headings".
