@@ -59,7 +59,7 @@ __This is a text__
 ![alt text][link]
 [link] : https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 ```
-![alt text][link]  
+[alt text][link]  
 [link]: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 ### Code Blocks
 #### Inline Code
