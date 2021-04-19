@@ -22,14 +22,14 @@ There are 6 pre-defined text sizes which are in form of "Headings".
 *This is a text*
 _This is a text_
 ```
-*This is a text*
+*This is a text*  
 _This is a text_
 #### Strong
 ```
 **This is a text**
 __This is a text__
 ```
-**This is a text**
+**This is a text**  
 __This is a text__
 #### Strikethrough
 ```
@@ -52,14 +52,14 @@ __This is a text__
 [I’m a reference-style link][link]
 [link] : www.google.com
 ```
-[I’m a reference-style link][link]
+[I’m a reference-style link][link]  
 [link]: www.google.com
 #### Reference-type Image
 ```
 ![alt text][link]
 [link] : https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 ```
-![alt text][link]
+![alt text][link]  
 [link]: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 ### Code Blocks
 #### Inline Code
@@ -69,24 +69,11 @@ __This is a text__
 `a = b + c`
 #### Code Blocks
 ```
-```
-    a = 1
-    b = 2
-    c = a + b
-```
-```
-```
     a = 1
     b = 2
     c = a + b
 ```
 #### Language Specific Blocks
-```
-  ```python
-s = "Python syntax highlighting"
-print s
-  ```
-```
 ```python
 s = "Python syntax highlighting"
 print s
