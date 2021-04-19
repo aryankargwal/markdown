@@ -4,6 +4,8 @@
 - [Markdown Practices](https://www.markdownguide.org/basic-syntax/)
 - [Documentation Badges](https://naereen.github.io/badges/)
 - [Sample Documentations](https://github.com/matiassingers/awesome-readme)
+- [Sample Contribution](https://github.com/opengovernment/opengovernment/blob/master/CONTRIBUTING.md)
+- [Licensing Guide](https://choosealicense.com/)
 ## Following is a list of handy markdown commands:
 ### Heading and Font Sizes:
 There are 6 pre-defined text sizes which are in form of "Headings".
@@ -52,21 +54,6 @@ __This is a text__
 ![alt text](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 ```
 ![alt text](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-#### Reference-type Link
-```
-[I’m a reference-style link][link]
-[link] : www.google.com
-```
-[I’m a reference-style link][1]  
-[1]: https://www.google.com/
-
-#### Reference-type Image
-```
-![alt text][link]
-[link] : https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-```
-[alt text][1]  
-[1]: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 
 ### Code Blocks
 #### Inline Code
